@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1545326105 source:/home/cool/project/c/cppcollecturl/cJSON.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<limits.h>
+	<ctype.h>
+	<locale.h>
+	"cJSON.h"
+
+1545326105 /home/cool/project/c/cppcollecturl/cJSON.h
+	<stddef.h>
+
+1553072595 source:/home/cool/project/c/cppcollecturl/http.c
+	<stdio.h>
+	<stdlib.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<string.h>
+	<errno.h>
+	"http.h"
+	"mylib.h"
+
+1553059231 /home/cool/project/c/cppcollecturl/http.h
+
+1553060116 /home/cool/project/c/cppcollecturl/mylib.h
+
+1549026554 source:/home/cool/project/c/cppcollecturl/httpdown.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<arpa/inet.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<fcntl.h>
+	<unistd.h>
+	<netdb.h>
+	<errno.h>
+
+1549046698 source:/home/cool/project/c/cppcollecturl/room.c
+	<stdio.h>
+	<stdlib.h>
+	"http.h"
+	<string.h>
+	"cJSON.h"
+	"mylib.h"
+	"room.h"
+
+1553060361 /home/cool/project/c/cppcollecturl/room.h
+
+1553054267 source:/home/cool/project/c/cppcollecturl/mylib.c
+	<stdio.h>
+	<stdlib.h>
+	"http.h"
+	<string.h>
+	"cJSON.h"
+	"mylib.h"
+
+1553078206 source:/home/cool/project/c/cppcollecturl/main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"http.h"
+	"cJSON.h"
+	"mylib.h"
+	"room.h"
+	<unistd.h>
+	<exception>
+
